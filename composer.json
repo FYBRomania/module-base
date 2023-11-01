@@ -6,10 +6,10 @@
         "OSL-3.0"
     ],
     "require": {
-        "php": "~7.4.0 || ~8.2.0",
+        "php": ">=7.4",
         "magento/framework": "103.0.*"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "autoload": {
         "files": [
             "registration.php"
